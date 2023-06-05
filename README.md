@@ -11,6 +11,16 @@ To install the project, simply clone the repository and install its dependencies
 npm install
 ```
 
+## Running the project
+
+To run the project, you can use the following command:
+
+```
+npm run start
+```
+
+Once you have started the project, you can open your browser and navigate to `http://localhost:3000/person` to see the results.
+
 ## Usage
 
 To use the Person controller, you need to import it into your project, as follows:
