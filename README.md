@@ -39,7 +39,7 @@ You can then use the controller to perform the CRUD operations, as follows:
 ```
 @Post()
 async create(): Promise<any> {
-  return 'Person ${data} created successfully!';
+  return 'Person created successfully!';
 }
 ```
 
